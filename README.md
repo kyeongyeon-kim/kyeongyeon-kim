@@ -35,6 +35,12 @@ Techs that I've used at least once
   <h2>💪 STATS 💪</h2> 
   
  <!-- GitHub Stats -->
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongyeon-kim&hide=contribs,prs&count_private=true&show_icons=true&theme=vue&title_color=1B4D73&icon_color=1B4D73)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongyeon-kim&layout=compact&title_color=1B4D73)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  
+  ![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
 </div>
