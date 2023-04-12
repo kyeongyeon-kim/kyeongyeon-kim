@@ -36,10 +36,13 @@ Techs that I've used at least once
   
  <!-- GitHub Stats -->
   <br/>
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
 
 
 </div>
