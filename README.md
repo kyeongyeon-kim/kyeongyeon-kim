@@ -42,7 +42,7 @@ Techs that I've used at least once
 ![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyeongyeon-kim&count_bg=%23B9D7EA&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 </div>
