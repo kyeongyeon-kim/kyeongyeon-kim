@@ -7,7 +7,9 @@
 <br/>
 <br/>
 <!-- badge -->
-  
+  <h3>✒ Blog ✒</h3>
+[https://yeon96.tistory.com/]
+<br><br>
   <h2>📚 TECH STACK 📚</h2>
 
 Techs that I've used at least once 
