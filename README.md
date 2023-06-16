@@ -8,7 +8,7 @@
 <br/>
 <!-- badge -->
   <h3>✒ Blog ✒</h3>
-[https://yeon96.tistory.com/]
+https://yeon96.tistory.com/
 <br><br>
   <h2>📚 TECH STACK 📚</h2>
 
